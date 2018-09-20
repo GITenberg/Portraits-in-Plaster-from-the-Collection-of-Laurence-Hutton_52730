@@ -1,5 +1,8 @@
 _repo: Portraits-in-Plaster-from-the-Collection-of-Laurence-Hutton_52730
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52730-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutton, Laurence
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33644
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52730#Portraits-in-Plaster-from-the-Collection-of-Laurence-Hutton
 gutenberg_issued: '2016-08-05'
 gutenberg_type: Text
 identifiers:
